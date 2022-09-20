@@ -1,0 +1,25 @@
+export let questions = [{
+        question: "What's my name?",
+        answer1: "John",
+        answer2: "Ahmad",
+        answer3: "Mohammad",
+        answer4: "Sameer",
+        correctAnswer: "",
+    },
+    {
+        question: "Where am I from?",
+        answer1: "Saida",
+        answer2: "Beirut",
+        answer3: "Tripoli",
+        answer4: "Tour",
+        correctAnswer: "Saida",
+    },
+    {
+        question: "Where do I live?",
+        answer1: "Lebanon",
+        answer2: "Belgium",
+        answer3: "Germany",
+        answer4: "Canada",
+        correctAnswer: "Germany",
+    },
+];

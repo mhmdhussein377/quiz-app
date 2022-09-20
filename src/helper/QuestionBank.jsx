@@ -1,0 +1,33 @@
+export let Questions = [{
+        prompt: "What is 1+3?",
+        optionA: 23,
+        optionB: 21,
+        optionC: 4,
+        optionD: 2,
+        answer: "C",
+    },
+    {
+        prompt: "What's is my name?",
+        optionA: "Mohammad",
+        optionB: "Ahmad",
+        optionC: "kamal",
+        optionD: "sameer",
+        answer: "A",
+    },
+    {
+        prompt: "What do I study?",
+        optionA: "Computer Engineering",
+        optionB: "Computer Science",
+        optionC: "Information Technology",
+        optionD: "Software Engineering",
+        answer: "B",
+    },
+    {
+        prompt: "What is my hobby",
+        optionA: "Swimming",
+        optionB: "Cycling",
+        optionC: "Hiking",
+        optionD: "Traveling",
+        answer: "B",
+    },
+];
